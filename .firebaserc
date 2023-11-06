@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "gaurav-portfolio-2d14e"
-  }
+    "portfolio": "gaurav-verma-tech",
+    "default": "gaurav-verma-tech"
+  },
+  "targets": {},
+  "etags": {}
 }
